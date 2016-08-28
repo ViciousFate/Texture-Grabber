@@ -1,0 +1,14 @@
+C:\Users\Nolly\Desktop\My Texture Grabber\bin\Release\Texture Grabber.exe
+C:\Users\Nolly\Desktop\My Texture Grabber\bin\Release\Texture Grabber.pdb
+C:\Users\Nolly\Desktop\My Texture Grabber\bin\Release\af\Texture Grabber.resources.dll
+C:\Users\Nolly\Desktop\My Texture Grabber\bin\Release\en\Texture Grabber.resources.dll
+C:\Users\Nolly\Desktop\My Texture Grabber\obj\x86\Release\Texture_Grabber.Form1.resources
+C:\Users\Nolly\Desktop\My Texture Grabber\obj\x86\Release\Texture_Grabber.Properties.Resources.resources
+C:\Users\Nolly\Desktop\My Texture Grabber\obj\x86\Release\Texture_Grabber.Search.resources
+C:\Users\Nolly\Desktop\My Texture Grabber\obj\x86\Release\Texture_Grabber.Form1.af.resources
+C:\Users\Nolly\Desktop\My Texture Grabber\obj\x86\Release\Texture_Grabber.Form1.en.resources
+C:\Users\Nolly\Desktop\My Texture Grabber\obj\x86\Release\Texture Grabber.csproj.GenerateResource.Cache
+C:\Users\Nolly\Desktop\My Texture Grabber\obj\x86\Release\af\Texture Grabber.resources.dll
+C:\Users\Nolly\Desktop\My Texture Grabber\obj\x86\Release\en\Texture Grabber.resources.dll
+C:\Users\Nolly\Desktop\My Texture Grabber\obj\x86\Release\Texture Grabber.exe
+C:\Users\Nolly\Desktop\My Texture Grabber\obj\x86\Release\Texture Grabber.pdb
